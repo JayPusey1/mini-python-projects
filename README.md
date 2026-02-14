@@ -1,9 +1,10 @@
-Python Mini Projects
+# Python Mini Projects
 
-What is the goal of this repository?
+## What is the goal of this repository?
 
 The goal of this repository is to build and improve core programming skills through small, self-contained Python projects.
-Each project focuses on different programming concepts such as:
+
+#### Each project focuses on different programming concepts such as:
  - Control flow
  - Input validation
  - Randomness
@@ -13,15 +14,15 @@ Each project focuses on different programming concepts such as:
 
 These projects are built without following step-by-step tutorials or using AI. They were made using documentation and independent problem-solving to strengthen real development skills.
 
-What projects are included?
+## What projects are included?
 
-1️⃣ Coin Flip Streak Simulator
+### 1️⃣ Coin Flip Streak Simulator
 
-Goal:
+#### Goal:
 
 Simulate flipping a coin until a target number of consecutive heads or tails is reached.
 
-Skills Used:
+#### Skills Used:
 
  - Loops (while)
  - Random number generation
@@ -29,19 +30,19 @@ Skills Used:
  - Conditional statements
  - Basic simulation thinking
 
-Future Improvements:
+#### Future Improvements:
 
  - Run multiple simulations and calculate averages
  - Display probability statistics
  - Graph results
 
-2️⃣ Number Guessing Game
+### 2️⃣ Number Guessing Game
 
-Goal:
+#### Goal:
 
 The program generates a random number between 1–1000 and the user must guess it using “Higher” or “Lower” feedback.
 
-Skills Used:
+#### Skills Used:
 
  - Input validation
  - Loop control
@@ -49,7 +50,7 @@ Skills Used:
  - Counter tracking
  - User feedback logic
 
-Future Improvements:
+#### Future Improvements:
 
  - Difficulty levels (easy/medium/hard)
  - Limited guesses mode
@@ -57,13 +58,13 @@ Future Improvements:
  - Best score persistence
  - GUI version
 
-3️⃣ Rock-Paper-Scissors (Best of 3)
+### 3️⃣ Rock-Paper-Scissors (Best of 3)
 
-Goal:
+#### Goal:
 
 Play Rock-Paper-Scissors against the computer in a best-of-three match.
 
-Skills Used:
+#### Skills Used:
 
  - String handling
  - Conditional combinations
@@ -71,20 +72,20 @@ Skills Used:
  - Match logic
  - Game loop structure
 
-Future Improvements:
+#### Future Improvements:
 
  - Add difficulty levels
  - Track win history
  - GUI version
  - Smarter AI logic instead of random selection
 
-4️⃣ Tic-Tac-Toe (Player vs Computer)
+### 4️⃣ Tic-Tac-Toe (Player vs Computer)
 
-Goal:
+#### Goal:
 
 Create a fully playable Tic-Tac-Toe game where the user plays against a computer opponent.
 
-Skills Used:
+#### Skills Used:
 
  - Board representation using lists
  - Index mapping (1–9 input to 0–8 array)
@@ -95,7 +96,7 @@ Skills Used:
  - Input validation
  - Basic game engine structure
 
-Future Improvements
+#### Future Improvements
 
  - Smarter AI (block opponent / take winning move)
  - Unbeatable AI
@@ -103,7 +104,7 @@ Future Improvements
  - Difficulty levels
  - Graphical user interface version
 
-How do I know this repository is successful?
+## How do I know this repository is successful?
 
  - Each project runs correctly and meets its defined goal
  - Input is validated properly
@@ -111,7 +112,7 @@ How do I know this repository is successful?
  - Code is structured and readable
  - More advanced versions are built over time
 
-Future Planned Projects
+## Future Planned Projects
 
 Some upcoming mini-project ideas include:
 
@@ -126,15 +127,16 @@ Some upcoming mini-project ideas include:
  - Data structure visualisation projects
  - Pathfinding visualisation (BFS / DFS)
 
-Why This Repository Exists
+## Why This Repository Exists
 
 This repository represents ongoing progress in developing problem-solving ability and programming fundamentals.
 
-The focus is not on complexity, but on:
+### The focus is not on complexity, but on:
 
  - Writing clean logic
  - Understanding how programs flow
  - Building confidence with independent coding
  - Iteratively improving projects over time
+
 
 More advanced versions of these projects will continue to be added.
